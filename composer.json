@@ -1,0 +1,21 @@
+{
+    "name": "diogobaeder/oauth-client-example",
+    "description": "Example of OAuth 2 client for my friend Brad",
+    "type": "project",
+    "require": {
+        "league/oauth2-client": "^2.6",
+        "monolog/monolog": "^3.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Diogobaeder\\OauthClientExample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diogo Baeder de Paula Pinto",
+            "email": "diogobaeder@yahoo.com.br"
+        }
+    ]
+}
